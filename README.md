@@ -1,0 +1,1 @@
+A Taylor Swift song generator where a database with her entire discography is analysed, songs are searched for based on categories such as pop, danceability, pitch etc. Can look up songs based on the lyrics too!
